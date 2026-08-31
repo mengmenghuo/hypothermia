@@ -3,7 +3,7 @@
 	"id": "hypothermia",
 	"version": "${version}",
 	"name": "Hypothermia",
-	"description": "玩家暴露在降雪天气中时会逐渐失温，如同置身细雪一般被冰冻。",
+	"description": "玩家暴露在降雪天气中时会逐渐被冰冻。",
 	"authors": [
 		"mmh1146"
 	],
